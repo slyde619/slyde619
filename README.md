@@ -16,5 +16,3 @@ I'm a Frontend developer, and social media manager who  works as a co-lead and c
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=slyde619&show_icons=true&include_all_commits=true&hide_border=true" alt="GodwinJ's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyde619&langs_count=8&layout=compact&hide_border=true" alt="GodwinJ's GitHub stats" /> |
-| ------------- | ------------- |
