@@ -12,7 +12,7 @@ I'm a Frontend developer, and social media manager who  works as a co-lead and c
 - 🌱 I’m currently learning JavaScript & Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Developer, Front End Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing godwinjonathan100@gmail.com
+- 📫 You can [view my resume](https://drive.google.com/file/d/1WPz2NLiFb7SSmq6qyfodqarMD7G-H70K/view?usp=drivesdk) and contact me by emailing godwinjonathan100@gmail.com
 
 ---
 
