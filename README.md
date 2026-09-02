@@ -8,10 +8,10 @@ I'm a Frontend developer, and social media manager who  works as a co-lead and c
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning JavaScript & Reactjs.
+- 💡 Fun fact: AltSchool Africa Alumni [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 🌱 Stack: Reactjs, Nextjs, and TypeScript .
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Developer, Front End Engineer (Intern or Junior level).
+- 💼 Job interests: Software Developer, Front End Engineer (Junior level / Intermediate level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1WPz2NLiFb7SSmq6qyfodqarMD7G-H70K/view?usp=drivesdk) and contact me by emailing godwinjonathan100@gmail.com
 
 ---
